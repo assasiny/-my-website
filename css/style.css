@@ -1,0 +1,11 @@
+.container{
+    width: 200px;
+    height: 200px;
+    background: #000;
+
+    /* animation: name duration timing-function delay iteration-count direction fill-mode; */
+    animation-name: unset;
+    animation-duration: ;
+
+}
+
